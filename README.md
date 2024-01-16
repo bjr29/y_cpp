@@ -1,4 +1,7 @@
 ﻿# Functions
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cc86172c48794d1591a9c3630ad30f5a)](https://app.codacy.com/gh/bjr29/y_cpp?utm_source=github.com&utm_medium=referral&utm_content=bjr29/y_cpp&utm_campaign=Badge_Grade)
+
 | Function                       | Description                            |
 |--------------------------------|----------------------------------------|
 | **VAR** varName value          | Creates a variable                     |
