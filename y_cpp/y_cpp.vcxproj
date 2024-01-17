@@ -154,17 +154,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="y_function.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="y_functions\var_function.cpp" />
+    <ClCompile Include="y_value.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="README.md" />
     <Content Include="test_code\HelloWorld.y" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="y_function.h" />
     <ClInclude Include="main.h" />
-    <ClInclude Include="type.h" />
+    <ClInclude Include="y_functions\var_function.h" />
+    <ClInclude Include="y_functions\y_function.h" />
     <ClInclude Include="y_type.h" />
     <ClInclude Include="y_value.h" />
   </ItemGroup>

@@ -1,9 +1,14 @@
 ﻿#pragma once
+
 #include <string>
 
 #include "y_type.h"
 
-struct y_value {
+class y_value {
+public:
     y_type type;
-    std::string value_string;
+    std::string value;
+
+    template <typename T>
+    T get_value();
 };

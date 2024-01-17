@@ -1,4 +1,2 @@
 ﻿PRINT "Hello World!"
-PRINT "Hello World!"
-PRINT "Hello World!"
-PRINT "Hello World!"
+VAR x 12.2134 
